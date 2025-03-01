@@ -1,3 +1,3 @@
-module github.com/cn4hub/golib2nd
+module github.com/cn4hub/echopkg
 
 go 1.24.0
