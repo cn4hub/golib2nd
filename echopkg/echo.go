@@ -6,5 +6,5 @@ import (
 )
 
 func Echo(message string) string {
-	return fmt.Sprintf("Echo: ", message)
+	return fmt.Sprintf("Echo: %v", message)
 }
