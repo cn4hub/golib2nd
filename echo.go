@@ -1,5 +1,5 @@
 // Contains a function to return a string
-package echo_test
+package echopkg
 
 import (
 	"fmt"
